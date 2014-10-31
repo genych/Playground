@@ -1,9 +1,10 @@
 # private stuff
 **/_*
 
-# temporaty stuff
+# temporary stuff
 test.py
 
 # garbage
 *.pyc
 *.pick
+*.pdf
