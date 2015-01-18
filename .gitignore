@@ -4,6 +4,9 @@
 # temporary stuff
 test.py
 
+# don't want to save
+/reddit
+
 # garbage
 *.pyc
 *.pick
