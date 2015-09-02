@@ -17,7 +17,7 @@ def main():
     base.close()
 
 
-base = sqlite3.connect('database.sqlite')
+base = sqlite3.connect('../static/database.sqlite')
 db = base.cursor()
 # db.execute('CREATE TABLE Product (time text, id text, quantity int)')
 # db.execute('''CREATE TABLE Parts (id text, quantity int)''')

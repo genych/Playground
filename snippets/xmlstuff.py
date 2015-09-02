@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 
 result = []
 
-with open('dev.xml') as file:
+with open('../static/dev.xml') as file:
     xml = BeautifulSoup(file)
 
 children = xml.find_all('optic')

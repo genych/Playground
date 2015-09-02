@@ -1,7 +1,0 @@
-<device id="00000001" type="network" name="WS-3560X" location="XXXXXX"/>
-<device id="00000666" type="network" name="WS-3560X" location="YxY">
-    <optic id="0000333" type="xxx" serial="99999"/>
-</device>
-<device id="00000003" type="network" name="WS-3560X" location="ZZZZZZ">
-    <optic id="00000004" type="10G MM" serial="A1234567"/>
-</device>
